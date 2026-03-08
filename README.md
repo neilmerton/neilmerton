@@ -20,7 +20,7 @@ With over 20 years of experience in the digital industry, I am a senior speciali
 - Responsive, accessibility-first UI (WCAG)
 ### Styling
 - CSS / SCSS / SASS
-- TailwindCSS
+- TailwindCSS (if you insist)
 - Component-based design systems
 - Mobile-first responsive development
 ### Backend & Integration
