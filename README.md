@@ -1,4 +1,4 @@
-With over 20 years of experience in the digital industry, I am a senior specialist who combines high-level business strategy with the hands-on creation of modern software. I bridge the gap between "big picture" company goals and the actual interfaces needed to achieve them.
+With over 20 years of experience in the digital industry, I am a senior specialist who combines high-level business strategy with the hands-on creation of modern web interfaces. I bridge the gap between "big picture" company goals and the actual interfaces needed to achieve them.
 
 ## What I Bring to a Business
 - Continuous Innovation & Learning: I have a naturally curious mindset and a long history of leading "Innovation" departments, where my job was to research and test new ideas. I am dedicated to staying ahead of the curve, regularly keeping myself up-to-date with the latest industry trends and teaching myself new skills to ensure a business always uses the most effective solutions.
