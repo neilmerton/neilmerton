@@ -11,7 +11,9 @@ With over 20 years of experience in the digital industry, I am a senior speciali
 ### Frontend Architecture
 - TypeScript, JavaScript (ES6+)
 - Vue.js (Vue 2 & Vue 3)
+- React (incl. Next.js)
 - Global state management (Pinia, Vuex)
+- Tanstack Query
 - Composable architecture patterns
 - SPA & PWA architecture
 - Reactive state management
