@@ -37,5 +37,5 @@ With over 20 years of experience in the digital industry, I am a senior speciali
 - Vite, Webpack
 - Performance optimisation
 - Error monitoring (Sentry)
-- Analytics (Google Analytics, Hotjar)
+- Analytics (Google Analytics, Hotjar, Umami)
 - Agile / Scrum delivery
