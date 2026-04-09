@@ -5,7 +5,7 @@ With over 20 years of experience in the digital industry, I am a senior speciali
 - Customer-Focused Design: I ensure that the "front end" of a product, the part the customer actually sees and touches, is easy to use, visually appealing, and accessible to everyone, including people with disabilities.
 - Rapid Product Launch: I have a proven track record of building working versions of new web applications in as little as 7 to 8 weeks. This speed is crucial for startups looking to attract investors or sign their first paying customers.
 - Efficiency & Cost Savings: By modernising old systems and improving how teams work, I have successfully reduced running costs and improved the speed at which businesses can release new features.
-- Experienced Leadership: I don’t just build tools; I build teams. I have managed departments, led offshore teams, and introduced better ways of working that improve staff morale and productivity.
+- Experienced Leadership: I don’t just build tools; I build teams. I have managed departments, led offshore teams, and introduced better ways of working that improve morale and productivity.
 
 ## Technologies
 ### Frontend Architecture
