@@ -13,7 +13,7 @@ With over 20 years of experience in the digital industry, I am a senior speciali
 - Vue.js (Vue 2 & Vue 3)
 - React (incl. Next.js)
 - Global state management (Pinia, Vuex)
-- Tanstack Query
+- TanStack Query
 - Composable architecture patterns
 - SPA & PWA architecture
 - Reactive state management
