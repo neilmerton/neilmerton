@@ -8,29 +8,32 @@ With over 20 years of experience in the digital industry, I am a senior speciali
 - Experienced Leadership: I don’t just build tools; I build teams. I have managed departments, led offshore teams, and introduced better ways of working that improve morale and productivity.
 
 ## Technologies
+
 ### Frontend Architecture
 - TypeScript, JavaScript (ES6+)
 - Vue.js (Vue 2 & Vue 3)
 - React (incl. Next.js)
-- Global state management (Pinia, Vuex)
-- TanStack Query
-- Composable architecture patterns
-- SPA & PWA architecture
-- Reactive state management
-- SSR & Static Site Generation concepts
 - Astro (SSR / SSG personal projects)
+- Global client-side state management (Pinia, Vuex)
+- Server-side state management (TanStack Query)
+- Composable architecture patterns
+- SPA & PWA architecture (Workbox)
+- SSR & Static Site Generation concepts
 - Responsive, accessibility-first UI (WCAG)
+
 ### Styling
 - CSS / SCSS / SASS
 - TailwindCSS (if you insist)
 - Component-based design systems
 - Mobile-first responsive development
+
 ### Backend & Integration
 - Node.js ecosystem
 - RESTful API integration
 - OData APIs
 - SaaS multi-tenant platforms
 - Authentication flows (JWT-based systems)
+
 ### Tooling & Quality
 - Git
 - CI/CD workflows
